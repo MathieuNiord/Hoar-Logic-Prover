@@ -1,4 +1,5 @@
 # LS-Projet
+### Auteurs : *Frejoux Gaëtan, Niord Mathieu, Sauzeau Yannis*
 
 ##### Table of Contents
 * [Français](#fr)
